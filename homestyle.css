@@ -1,0 +1,16 @@
+.nav-item{
+    background-color:#15968f;
+    padding-right: 30px;
+    padding-left: 20px;
+    border: solid;
+    border-radius: solid;
+    border-color:lightseagreen
+    
+        
+}
+
+.nav-item:hover{
+    background: none;
+
+    background-color: ;
+}
