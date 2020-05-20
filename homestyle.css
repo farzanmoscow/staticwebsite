@@ -1,10 +1,13 @@
 .nav-item{
     background-color:#15968f;
-    padding-right: 30px;
-    padding-left: 20px;
+    margin-left: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
     border: solid;
-    border-radius: solid;
-    border-color:lightseagreen
+    text-align: center;
+    
+    color:white;
+    
     
         
 }
@@ -13,4 +16,28 @@
     background: none;
 
     background-color: ;
+}
+#home-section{
+   background: rgb(42,122,112);
+background: linear-gradient(90deg, rgba(42,122,112,1) 0%, rgba(41,168,167,1) 0%, rgba(31,81,91,1) 92%);
+}
+#service-section{
+   background: rgb(42,122,112);
+background: linear-gradient(90deg, rgba(42,122,112,1) 0%, rgba(41,168,167,1) 0%, rgba(31,81,91,1) 92%);
+}
+#experience-section{
+   background: rgb(42,122,112);
+background: linear-gradient(90deg, rgba(42,122,112,1) 0%, rgba(41,168,167,1) 0%, rgba(31,81,91,1) 92%);
+}
+.head{
+    background: rgb(42,122,112);
+background: linear-gradient(90deg, rgba(42,122,112,1) 0%, rgba(41,168,167,1) 0%, rgba(31,81,91,1) 92%);
+    border: solid;
+}
+.foot{
+    background: rgb(42,122,112);
+background: linear-gradient(90deg, rgba(42,122,112,1) 0%, rgba(84,116,116,1) 0%, rgba(54,55,55,1) 0%);;
+}
+.map{
+    width: 50%; height: 100%; margin:0px auto; 
 }
