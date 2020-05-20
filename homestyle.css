@@ -38,6 +38,3 @@ background: linear-gradient(90deg, rgba(42,122,112,1) 0%, rgba(41,168,167,1) 0%,
     background: rgb(42,122,112);
 background: linear-gradient(90deg, rgba(42,122,112,1) 0%, rgba(84,116,116,1) 0%, rgba(54,55,55,1) 0%);;
 }
-.map{
-    width: 50%; height: 100%; margin:0px auto; 
-}
